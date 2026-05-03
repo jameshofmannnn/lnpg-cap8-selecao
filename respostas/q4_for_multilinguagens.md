@@ -11,7 +11,7 @@ while i < n:
     j -= 1
 
 
-b)JavaScript
+b) JavaScript
 
 let n = 100;
 let sum = 0;
@@ -19,6 +19,7 @@ let sum = 0;
 for (let i = 0, j = 17; i < n; i++, j--) {
     sum += i * j + 3;
 }
+
 
 c) C
 
@@ -28,6 +29,7 @@ int sum = 0;
 for (i = 0, j = 17; i < n; i++, j--) {
     sum += i * j + 3;
 }
+
 
 d) Ruby
 
