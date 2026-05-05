@@ -26,3 +26,16 @@ Em Ruby ficou mais prático, pois o código ficoi mais limpo e com menos linhas.
 Agora o Erlang foi muito estranho. É como se o pandrão e a sintaxe mudasse completamente dos padrões das outras linguagens de programação. Fica tudo bem mais repetitivo, não permitindo juntar partes do código para poupar linhas e caracteres. Não achei tão chocanto quanto Huskel, na verdade é bem organizada. Só foge do padrão do que somos acostumados com Python, Java, etc.
 
 Então Ruby ganha em facilidade e claridade. Não é necessário tanto trabalho como em C e nem foge dos padrões já conhecidos de várias outras linguagens.
+
+
+###Análise comparativa Q3###
+
+Analisando quantidade de linhas, todas ficaram parecidas. Python novamente sai na frente porque usa menos caracteres e outros elementos para fazer a mesma lógica das demais linguagens. Já Java fica maior por causa da declaração de variável e outros tantos símbolos. O JavaScript fica em cima do muro, nem de menos como Pyhthon nem de mais como Java.
+
+SObre legibilidade do código, Python ganha mais fácil ainda porque já dá para entender nos primeiros olhares ou pelo menos é mais fácil de começar a entender. Java e JavaScript também não são "sujos" ou impossíveis de entenderem a lógica, só têm mais caracteres (tipo &&, {}, ponto e vírgula) que deixa mais cansativo de ler e entender.
+
+Jave é o oposto de Python em se conciso, JavaScript fica equilibrado.
+
+Eu escolheria Python porque para mim quanto mais simples, melhor.
+
+Comparando com outra linguagem, penso em C. Java e JavaScript ficam mais próximos dele — mesma “cara”, mesma lógica. Já o Python é mais diferente, mas justamente por isso acaba sendo mais fácil de ler.
