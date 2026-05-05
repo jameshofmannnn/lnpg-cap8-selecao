@@ -39,3 +39,14 @@ Jave é o oposto de Python em se conciso, JavaScript fica equilibrado.
 Eu escolheria Python porque para mim quanto mais simples, melhor.
 
 Comparando com outra linguagem, penso em C. Java e JavaScript ficam mais próximos dele — mesma “cara”, mesma lógica. Já o Python é mais diferente, mas justamente por isso acaba sendo mais fácil de ler.
+
+
+###Análise comparativa Q4###
+
+Analisando a quantidade de linhas vi que C e JavaScript são mais tranquiços. Elas têm o for igual ao Java. Então já segue a lógica e não muda. Python dessa vez não ficou tão curto, igual Ruby, porque nele o while é utilizado para controlar duas variáveis. Agora o SQL virou um textão e achei muito estranhos as palavras em MAÍUSCULO. Muito diferente do que estou acostumado com Python! Vi que precisa de "recursão" para poder imitir um loop, ou seja, o SQL não foi feito para repetiri coisas tipo um "for" com nas outras linguagens, já que o objetivo dele é mais para consultar dados. Aprendi que essa "recursão" é basicamente uma consulta que chama ela mesma várias vezes, repetindo tipo umm loop "for".
+
+Já a llegitibilidade, Python e Ruby (como de esperar) são mais tranqilos. C e JavaScript já usam mais símbolos, o que já deixa mais cansativo. Agora o SQL foge de todo o padrão, é uma outra lógica, complica bem mais.
+
+Na concisão vi que o C e JavaScript passam na frete de Python e Ruby porque o for deles aceita várias coisas juntas (tipo i++ e j--), aí já faz tudo mais direto. Python e Ruby também são simples, mas loops não são tão compactos. O bicho pega com o SQL, o menos direto de todos.
+
+Assim, partindo do Java, o mais lógico e rápido seria usar C ou JavaScript pois são bem parecidos. Se quisesse deixar mais fácil de entender a lógica usada, aí passaria para Python ou Ruby. Mas SQL eu não usaria mesmo! Só se fosse a única opção, pois ele não foi feito para esse objetivo.
